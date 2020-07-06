@@ -1,0 +1,5 @@
+train-100-10.csv trainR-100-10.csv test-100-10.csv testR-100-10.csv
+train-100-100.csv trainR-100-100.csv test-100-100.csv testR-100-100.csv
+train-1000-100.csv trainR-1000-100.csv test-1000-100.csv testR-1000-100.csv
+train-crime.csv trainR-crime.csv test-crime.csv testR-crime.csv 
+train-wine.csv trainR-wine.csv test-wine.csv testR-wine.csv	

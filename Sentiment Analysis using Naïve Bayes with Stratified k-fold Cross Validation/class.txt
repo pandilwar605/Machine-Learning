@@ -1,0 +1,5 @@
+what a nice day	1
+a green cat chased a green dog	1
+green umbrella a nice day	0
+a nice day	1
+what a green umbrella	0
